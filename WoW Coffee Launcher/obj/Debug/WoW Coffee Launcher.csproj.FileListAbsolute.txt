@@ -19,3 +19,32 @@ C:\Users\IsKaffe\source\repos\WoW Coffee Launcher\WoW Coffee Launcher\obj\Debug\
 C:\Users\IsKaffe\source\repos\WoW Coffee Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher.csproj.CopyComplete
 C:\Users\IsKaffe\source\repos\WoW Coffee Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher.exe
 C:\Users\IsKaffe\source\repos\WoW Coffee Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher.pdb
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\WoW Coffee Launcher.exe.config
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\WoW Coffee Launcher.exe
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\WoW Coffee Launcher.pdb
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\MaterialDesignColors.dll
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\Newtonsoft.Json.dll
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\Newtonsoft.Json.xml
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher.csprojAssemblyReference.cache
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\MainWindow.g.cs
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\App.g.cs
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher_MarkupCompile.cache
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher_MarkupCompile.lref
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\App.baml
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\MainWindow.baml
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher.g.resources
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\WoW_Coffee_Launcher.Properties.Resources.resources
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher.csproj.GenerateResource.cache
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher.csproj.CoreCompileInputs.cache
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher.csproj.CopyComplete
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher.exe
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\obj\Debug\WoW Coffee Launcher.pdb
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\ControlzEx.dll
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\System.Windows.Interactivity.dll
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\ControlzEx.pdb
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\source\repos\WindowFoundry\Coffee-Launcher\WoW Coffee Launcher\bin\Debug\MahApps.Metro.IconPacks.xml
